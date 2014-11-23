@@ -1,4 +1,4 @@
 Host-Switch
 ===========
 
-You can do "Multi Domain -> One HTML" without difficulty.
+You can use multi domains for one server on client-side.
